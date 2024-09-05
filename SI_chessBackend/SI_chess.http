@@ -1,0 +1,6 @@
+@SI_chess_HostAddress = http://localhost:5230
+
+GET {{SI_chess_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
